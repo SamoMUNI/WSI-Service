@@ -1,3 +1,0 @@
-[submodule "wsi_service/models"]
-	path = wsi_service/models
-	url = https://gitlab.com/empaia/services/models.git
